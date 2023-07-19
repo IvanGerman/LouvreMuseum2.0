@@ -104,27 +104,27 @@
 }
 
 .booking-form input[type="date"] {
-  background: url('./../assets/svg/ticketForm-svg/Date-svg.svg') no-repeat 14px;
+  background: url('./assets/svg/ticketForm-svg/Date-svg.svg') no-repeat 14px;
   background-size: 15px 15px;
 }
 
 .booking-form input[type="time"] {
-  background: url('./../assets/svg/ticketForm-svg/Time-svg.svg') no-repeat 14px;
+  background: url('./assets/svg/ticketForm-svg/Time-svg.svg') no-repeat 14px;
   background-size: 15px 15px;
 }
 
 .booking-form input[type="text"] {
   background-size: 15px 15px;
-  background: url('./../assets/svg/ticketForm-svg/Name-svg.svg') no-repeat 14px;
+  background: url('./assets/svg/ticketForm-svg/Name-svg.svg') no-repeat 14px;
 }
 
 .booking-form input[type="email"] {
-  background: url(./../assets/svg/ticketForm-svg/Email-svg.svg) no-repeat 14px;
+  background: url(./assets/svg/ticketForm-svg/Email-svg.svg) no-repeat 14px;
   background-size: 15px 11px;
 }
 
 .booking-form input[type="tel"] {
-  background: url(./../assets/svg/ticketForm-svg/Phone-svg.svg) no-repeat 14px;
+  background: url(./assets/svg/ticketForm-svg/Phone-svg.svg) no-repeat 14px;
   background-size: 15px 22px;
 }
 
@@ -161,11 +161,11 @@
 /* calendar-picker-indicator start */
 .booking-form ::-webkit-calendar-picker-indicator {
   background-size: 15px 15px;
-  background: url(./../assets/svg/ticketForm-svg/Arrow-up-svg.svg) no-repeat center;
+  background: url(./assets/svg/ticketForm-svg/Arrow-up-svg.svg) no-repeat center;
 }
 
 .booking-form input[type="date"]:focus::-webkit-calendar-picker-indicator, .booking-form input[type="time"]:valid::-webkit-calendar-picker-indicator, .booking-form input[type="date"]:valid::-webkit-calendar-picker-indicator, .booking-form input[type="time"]:focus::-webkit-calendar-picker-indicator {
-  background: url(./../assets/svg/ticketForm-svg/Arrow-down-svg.svg) no-repeat center;
+  background: url(./assets/svg/ticketForm-svg/Arrow-down-svg.svg) no-repeat center;
   background-size: 15px 15px;
   margin-right: 3px;
 }
@@ -184,7 +184,7 @@
 .booking-form select:focus {
   background-position: center right 9px, center left 16px;
   background-repeat: no-repeat, no-repeat;
-  background-image: url("./../assets/svg/ticketForm-svg/Arrow-down-svg.svg"), url("./../assets/svg/ticketForm-svg/Ticket-svg.svg");
+  background-image: url("./assets/svg/ticketForm-svg/Arrow-down-svg.svg"), url("./assets/svg/ticketForm-svg/Ticket-svg.svg");
   
 }
 
@@ -211,7 +211,7 @@
   padding: 0 8px 0 45px;
   font-size: 18px;
   border: 1px solid #000000;
-  background-image: url("./../assets/svg/ticketForm-svg/Arrow-up-svg.svg"), url("./../assets/svg/ticketForm-svg/Ticket-svg.svg");
+  background-image: url("./assets/svg/ticketForm-svg/Arrow-up-svg.svg"), url("./assets/svg/ticketForm-svg/Ticket-svg.svg");
   appearance: none;
   background-position: center right 10px, center left 15px;
   background-repeat: no-repeat, no-repeat;
@@ -297,7 +297,7 @@
 }
 
 .overview {
-  background: url('./../assets/img/LouvreSmall.jpg') no-repeat;
+  background: url('./assets/img/LouvreSmall.jpg') no-repeat;
   background-position: right top;
 }
 
@@ -326,7 +326,7 @@
 }
 
 .selected-type {
-  background: url('./../assets/svg/ticketForm-svg/Checked-svg.svg') no-repeat;
+  background: url('./assets/svg/ticketForm-svg/Checked-svg.svg') no-repeat;
   background-position: left;
   background-size: 15px 15px;
   padding-left: 30px;
@@ -338,14 +338,14 @@
 }
 
 .selected-date {
-  background: url('./../assets/svg/ticketForm-svg/Date-svg.svg') no-repeat;
+  background: url('./assets/svg/ticketForm-svg/Date-svg.svg') no-repeat;
   background-position: left;
   background-size: 15px 15px;
   padding-left: 30px;
 }
 
 .selected-time {
-  background: url('./../assets/svg/ticketForm-svg/Time-svg.svg') no-repeat;
+  background: url('./assets/svg/ticketForm-svg/Time-svg.svg') no-repeat;
   background-position: left;
   background-size: 15px 15px;
   padding: 6px 0 6px 30px;
@@ -443,7 +443,7 @@
   background-color: #BCBCBC;
   line-height: 14px;
   border-radius: 5px;
-  background-image: url("./../assets/svg/ticketForm-svg/Visa-svg.svg"), url("./../assets/svg/ticketForm-svg/Mastercard-svg.svg");
+  background-image: url("./assets/svg/ticketForm-svg/Visa-svg.svg"), url("./assets/svg/ticketForm-svg/Mastercard-svg.svg");
   background-position: top 35px right 20px, top 65px right 20px;
   background-repeat: no-repeat, no-repeat;
   z-index: 20;

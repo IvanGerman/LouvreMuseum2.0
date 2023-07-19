@@ -51,7 +51,9 @@ module.exports = {
             loader: "postcss-loader",
             options: {
               postcssOptions: {
-                plugins: [require('postcss-preset-env')]
+                plugins: [require('postcss-import'),
+                          require('postcss-preset-env')
+                         ]
               }
             }
           },

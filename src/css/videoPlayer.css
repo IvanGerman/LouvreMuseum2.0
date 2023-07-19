@@ -136,7 +136,7 @@ input[type=range] {
   width: 38px;
   height: 31px;
   margin-right: 50px;
-  background-image: url("./../assets/svg/video-player-svg/VolumeONicon.svg");
+  background-image: url("./assets/svg/video-player-svg/VolumeONicon.svg");
   background-repeat: no-repeat;
   cursor: pointer;
 }

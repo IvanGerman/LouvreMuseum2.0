@@ -461,7 +461,7 @@ line-height: 75px;
   max-width: 200px;
   height: 12px;
   margin: 0 auto;
-  background-image: url("./../assets/svg/video-player-svg/video-slider-pagination.svg");
+  background-image: url("./assets/svg/video-player-svg/video-slider-pagination.svg");
   background-repeat: no-repeat;
   background-position: center; 
 }

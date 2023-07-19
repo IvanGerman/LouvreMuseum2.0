@@ -35,7 +35,7 @@ header {
 .logo-louvre {
   max-width: 29px;
   height: 16px;
-  background-image: url(./../assets/svg/logo-louvre420.svg);
+  background-image: url(./assets/svg/logo-louvre420.svg);
 }
 
 .name-louvre {
@@ -208,7 +208,7 @@ line-height: 40px;
   max-width: 380px;
   height: 285px;
   margin: 0 auto;
-  background-image: url("./../assets/img/mona-lisa420.png");
+  background-image: url("./assets/img/mona-lisa420.png");
   background-repeat: no-repeat;
 }
 
@@ -219,7 +219,7 @@ line-height: 40px;
   margin: 0 auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url("./../assets/svg/slider-image420.svg");
+  background-image: url("./assets/svg/slider-image420.svg");
   background-repeat: no-repeat;
 }
 
@@ -563,7 +563,7 @@ line-height: 40px;
   max-width: 174px;
   height: 8px;
   margin: 0 auto;
-  background-image: url("./../assets/svg/video-player-svg/video-slider-pagination420.svg");
+  background-image: url("./assets/svg/video-player-svg/video-slider-pagination420.svg");
   background-repeat: no-repeat;
   background-position: center; 
 }
@@ -674,7 +674,7 @@ line-height: 40px;
   height: 160px;
   margin-right: 0px;
   margin-bottom: 40px;
-  background-image: url("./../assets/img/buy-tickets-image420.png");
+  background-image: url("./assets/img/buy-tickets-image420.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -856,7 +856,7 @@ line-height: 40px;
 .parallax {
   max-width: 420px;
   height: 300px;
-  background-image: url(./../assets/img/parallax420.png);
+  background-image: url(./assets/img/parallax420.png);
 }
 
 
